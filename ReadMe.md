@@ -1,3 +1,7 @@
+
+<h1 align="center">Hi 👋, I'm Viral Raval</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
+
 # 💫 About Me:
 🔭 I'm currently working on: Expanding my skills in Data Engineering, Web Development, and Programming, focusing on building efficient data pipelines and responsive web applications.<br><br>👥 I'm looking to collaborate on: Data engineering projects that involve big data technologies, cloud infrastructure, web development, or ETL processes.<br><br>🤝 I'm looking for help with: Best practices in optimizing data pipelines, advanced programming techniques in Python and SQL, and modern web development frameworks like React or Node.js.<br><br>🌱 I'm currently learning: Data Engineering, Web Development, and Programming, particularly working with tools like Apache Spark, AWS, React, and JavaScript.<br><br>💬 Ask me about: Data pipelines, web development, and my journey in learning data engineering and full-stack development.<br><br>⚡ Fun fact: I love solving data and web development challenges just like solving puzzles — there's always a creative way to find the right piece!
 
